@@ -1,4 +1,3 @@
-layout_spectrum: 0.38311397819779813
 typography_spectrum: 0.6005375345703214
 color:
   brandStrength: 0.5693937803152949
@@ -6,9 +5,11 @@ color:
   saturation: 0.8247122487518936
   rhythmicContrast: 0.5000915622804314
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.38311397819779813
 name: DeiScribePublishing
+title: DeiScribe Pub.
